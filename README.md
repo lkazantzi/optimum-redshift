@@ -16,7 +16,7 @@ including the effective survey volume <a href="https://www.codecogs.com/eqnedit.
 ## Citing the paper 
 If you use any of the above codes or the figures in a published work please cite the following paper:
 <br>*Constraining power of cosmological observables: blind redshift spots and optimal ranges.*
-Lavrentios Kazantzidis, Leandros Perivolaropoulos and Foteini Skara
+<br>Lavrentios Kazantzidis, Leandros Perivolaropoulos and Foteini Skara
 <br>[Phys. Rev. D 99 (2019), 063537](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.99.063537), [arxiv:1812.05356](https://arxiv.org/pdf/1812.05356.pdf)
 
 Any further questions/comments are welcome.
